@@ -9,5 +9,14 @@ public class main {
     System.out.println(4*5); //Multiplication
     /* How to use multiline comment */ //Multiline comment method
     
+    // String value 
+    String name = "Arif";
+    System.out.println(name);
+
+    // Numerical value
+    int num = 429;
+    System.out.println(num);
+
+    
   }
 }
